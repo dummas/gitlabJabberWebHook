@@ -10,6 +10,10 @@
   "dependencies": {
     "node-xmpp": "~1.0.0-alpha1",
     "simple-xmpp": "~0.1.19",
-    "express": "~4.1.2"
+    "express": "~4.1.2",
+    "node-stringprep": "~0.2.3",
+    "request": "~2.34.0",
+    "connect": "~2.15.0",
+    "body-parser": "~1.0.2"
   }
 }
