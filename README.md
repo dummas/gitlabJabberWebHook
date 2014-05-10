@@ -1,4 +1,7 @@
-Gitlab Jabber WebHook
-===================
+# Gitlab Jabber WebHook
 
 Primitive Jabber Gitlab Webhook
+
+## Installation
+
+    npm install
