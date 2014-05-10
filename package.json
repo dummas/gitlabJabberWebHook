@@ -1,0 +1,15 @@
+{
+  "name": "node-gitlab-jabber-web-hook",
+  "version": "0.0.1",
+  "author": "Maksim Norkin <m.norkin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dummas/gitlabJabberWebHook.git"
+  },
+  "homepage": "https://github.com/dummas/gitlabJabberWebHook",
+  "dependencies": {
+    "node-xmpp": "~1.0.0-alpha1",
+    "simple-xmpp": "~0.1.19",
+    "express": "~4.1.2"
+  }
+}
